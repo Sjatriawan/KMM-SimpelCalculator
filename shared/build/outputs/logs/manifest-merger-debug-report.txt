@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml:2:13-83
+INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml:2:13-83
+INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml:2:13-83
+	package
+		INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+		ADDED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml:2:13-83
+		INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+	xmlns:android
+		ADDED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml:2:23-81
+uses-sdk
+INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml reason: use-sdk injection requested
+INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+	android:targetSdkVersion
+		INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+		ADDED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+		INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+	android:minSdkVersion
+		INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+		ADDED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml
+		INJECTED from /Users/myogisatriawan/AndroidStudioProjects/KMPProject/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11692449444344862487.xml

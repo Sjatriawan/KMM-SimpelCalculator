@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "3dfbb66c34ea0f9df6a0739d0c7a4366c5701d81b1f8f6287e8bb9bc58be43f5"
+build_start_time: [1691164648, 610194000]
+build_end_time: [1691164651, 961894000]
+inputs:
+  "/Users/myogisatriawan/AndroidStudioProjects/KMPProject/iosApp/iosApp/ContentView.swift": [1691112727, 215274616]
+  "/Users/myogisatriawan/AndroidStudioProjects/KMPProject/iosApp/iosApp/iOSApp.swift": [1691084696, 729630058]
